@@ -1,4 +1,4 @@
-# Hi, my name is Nouran 👋
+# Hi, my name is Nouran 
 
 **AI & Data Engineering** | P.Eng, PMP | Master of Management in Analytics @ McGill (2026) | Bachelor of Applied Science @ UBC (2021)
 
