@@ -2,7 +2,7 @@
 
 **AI & Data Engineering** | P.Eng, PMP | Master of Management in Analytics @ McGill (2026) | Bachelor of Applied Science @ UBC (2021)
 
-I spent eight years building real infrastructure, tunnels, water systems, sensor networks. Now I build AI systems that automate decisions, reduce risk, and save money. My edge is that I speak both languages, the engineers generating the data and the executives funding the pipeline.
+I spent eight years building real infrastructure, tunnels, water systems, sensor networks. Now I build AI systems that automate decisions, reduce risk, and save money. I speak both languages, the engineers generating the data and the executives funding the pipeline.
 
 **Full case studies with outcomes:** [nouran-elamir.com](https://nouran-elamir.com)
 
@@ -35,7 +35,7 @@ I spent eight years building real infrastructure, tunnels, water systems, sensor
 
 ## How I work
 
-Fail fast, learn faster · Why before how · Pay it forward · 1% better everyday
+Fail fast, learn faster · Why before how · Pay it forward · 1% better every day
 
 ## Connect
 
