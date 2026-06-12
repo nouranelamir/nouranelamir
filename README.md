@@ -28,7 +28,10 @@ I spent eight years building real infrastructure, tunnels, water systems, sensor
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-**Currently learning:** LLM agent architectures · A2A & MCP protocols · Spark at scale
+## Currently
+
+- **Building:** a multi-agent research system (OpenAI Agents SDK + Google A2A)
+- **Learning:** LLM agent architectures · MCP protocol · Spark at scale
 
 ## How I work
 
